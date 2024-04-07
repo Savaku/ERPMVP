@@ -432,7 +432,7 @@ export const mockPieData = [
 
 export const mockLineData = [
   {
-    id: "japan",
+    id: "AMS",
     color: tokens("dark").greenAccent[500],
     data: [
       {
@@ -486,109 +486,109 @@ export const mockLineData = [
     ],
   },
   {
-    id: "france",
+    id: "ACE",
     color: tokens("dark").blueAccent[300],
     data: [
       {
-        x: "plane",
+        x: "JAN",
         y: 212,
       },
       {
-        x: "helicopter",
+        x: "FEB",
         y: 190,
       },
       {
-        x: "boat",
+        x: "MAR",
         y: 270,
       },
       {
-        x: "train",
+        x: "APR",
         y: 9,
       },
       {
-        x: "subway",
+        x: "MAY",
         y: 75,
       },
       {
-        x: "bus",
+        x: "JUN",
         y: 175,
       },
       {
-        x: "car",
+        x: "JUL",
         y: 33,
       },
       {
-        x: "moto",
+        x: "AUG",
         y: 189,
       },
       {
-        x: "bicycle",
+        x: "SEP",
         y: 97,
       },
       {
-        x: "horse",
+        x: "OCT",
         y: 87,
       },
       {
-        x: "skateboard",
+        x: "NOV",
         y: 299,
       },
       {
-        x: "others",
+        x: "DEC",
         y: 251,
       },
     ],
   },
   {
-    id: "us",
+    id: "FANUC",
     color: tokens("dark").redAccent[200],
     data: [
       {
-        x: "plane",
+        x: "JAN",
         y: 191,
       },
       {
-        x: "helicopter",
+        x: "FEB",
         y: 136,
       },
       {
-        x: "boat",
+        x: "MAR",
         y: 91,
       },
       {
-        x: "train",
+        x: "APR",
         y: 190,
       },
       {
-        x: "subway",
+        x: "MAY",
         y: 211,
       },
       {
-        x: "bus",
+        x: "JUN",
         y: 152,
       },
       {
-        x: "car",
+        x: "JUL",
         y: 189,
       },
       {
-        x: "moto",
+        x: "AUG",
         y: 152,
       },
       {
-        x: "bicycle",
+        x: "SEP",
         y: 8,
       },
       {
-        x: "horse",
+        x: "OCT",
         y: 197,
       },
       {
-        x: "skateboard",
+        x: "NOV",
         y: 107,
       },
       {
-        x: "others",
+        x: "DEC",
         y: 170,
       },
     ],
