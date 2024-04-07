@@ -56,7 +56,7 @@ const Dashboard = () => {
         >
           <StatBox
             title="12,361"
-            subtitle="Emails Sent"
+            subtitle="Incoming orders"
             progress="0.75"
             increase="+14%"
             icon={
@@ -74,8 +74,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="431,225"
-            subtitle="Sales Obtained"
+            title="4,31,225"
+            subtitle="Processed today"
             progress="0.50"
             increase="+21%"
             icon={
@@ -94,7 +94,7 @@ const Dashboard = () => {
         >
           <StatBox
             title="32,441"
-            subtitle="New Clients"
+            subtitle="Dispatched"
             progress="0.30"
             increase="+5%"
             icon={
@@ -112,8 +112,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="1,325,134"
-            subtitle="Traffic Received"
+            title="13,25,134"
+            subtitle="Order value pending"
             progress="0.80"
             increase="+43%"
             icon={
@@ -150,7 +150,7 @@ const Dashboard = () => {
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342.32
+                ₹59,342.32
               </Typography>
             </Box>
             <Box>
@@ -238,9 +238,9 @@ const Dashboard = () => {
               color={colors.greenAccent[500]}
               sx={{ mt: "15px" }}
             >
-              $48,352 revenue generated
+              ₹48,352 Profit after expenses
             </Typography>
-            <Typography>Includes extra misc expenditures and costs</Typography>
+            <Typography>Includes miscellaneous costs</Typography>
           </Box>
         </Box>
         <Box
